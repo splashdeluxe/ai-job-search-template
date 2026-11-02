@@ -20,7 +20,7 @@ A job search system for your Muse agent. It sources roles from official careers 
 </p>
 
 <p align="center">
-<a href="#quick-start">Quick start</a> · <a href="SETUP.md">Setup guide</a> · <a href="examples/">Example</a> · <a href="dashboard/DASHBOARD-SPEC.md">Dashboard</a> · <a href="PRIVACY.md">Privacy</a> · <a href="#support">Support</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/issues">Issues</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/pulls">Pull requests</a>
+<a href="https://splashdeluxe.github.io/ai-job-search-template/">One-pager</a> · <a href="#quick-start">Quick start</a> · <a href="SETUP.md">Setup guide</a> · <a href="examples/">Example</a> · <a href="dashboard/DASHBOARD-SPEC.md">Dashboard</a> · <a href="PRIVACY.md">Privacy</a> · <a href="#support">Support</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/issues">Issues</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/pulls">Pull requests</a>
 </p>
 
 ---
