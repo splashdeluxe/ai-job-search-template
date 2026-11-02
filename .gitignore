@@ -1,0 +1,4 @@
+seen_jobs.json
+tracker/job_search_tracker.csv
+.DS_Store
+*.tmp

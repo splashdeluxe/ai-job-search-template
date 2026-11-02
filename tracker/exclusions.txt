@@ -1,0 +1,2 @@
+# One line per exclusion: Company | reason | YYYY-MM-DD
+# Reasons: applied (inside one-per-week window), dropped by the owner, gate failed, no truthful form answer, reapply limit
