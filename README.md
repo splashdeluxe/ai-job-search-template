@@ -37,6 +37,8 @@ Heavy batches included. This system ran daily dispatch batches in its author's o
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support-yellow?logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/nils_effmert)
 
+⭐ No money? [Star this repo](https://github.com/splashdeluxe/ai-job-search-template) instead. Click **Star** at the top right of this page. Two seconds, and it helps the next job seeker find it.
+
 ## What this is
 
 A set of markdown files that turn Muse into a job application assistant with rules. No code to install, no database, no build step. Your agent reads the files and works.
@@ -199,11 +201,13 @@ My links → [LinkedIn](https://www.linkedin.com/in/nils-effmert) · [GitHub](ht
 
 ## Support
 
+**The free way:** click **Star** at the top right of this page. One click, two seconds, and it helps other job seekers find the template.
+
 If this repo helped your search, a coffee keeps it maintained and free for the next person.
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support-yellow?logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/nils_effmert)
 
-The coffee link and GitHub contributions are the only ways to support this project. There is no paid version, no token and no coin. Anything claiming otherwise is not from here.
+A star, the coffee link and GitHub contributions are the only ways to support this project. There is no paid version, no token and no coin. Anything claiming otherwise is not from here.
 
 ## Star History
 
