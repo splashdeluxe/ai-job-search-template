@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Built%20for-Muse-orange" alt="Built for Muse">
   <img src="https://img.shields.io/badge/Free%20plan-friendly-green" alt="Free plan friendly">
   <img src="https://img.shields.io/badge/Type-GitHub%20template-9cf" alt="GitHub template">
+  <a href="https://github.com/splashdeluxe/ai-job-search-template/stargazers"><img src="https://img.shields.io/github/stars/splashdeluxe/ai-job-search-template?style=flat" alt="GitHub stars"></a>
 </p>
 
 <p align="center">
@@ -18,6 +19,8 @@
 <p align="center">
 A job search system for your Muse agent. It sources roles from official careers boards, scores them against your profile, tells you the gap in plain words before anyone applies, writes one tailored CV per role, submits once, and tracks what comes back.
 </p>
+
+<p align="center">⭐ <strong>If this template helped you, a star helps the next person find it.</strong></p>
 
 <p align="center">
 <a href="https://splashdeluxe.github.io/ai-job-search-template/">One-pager</a> · <a href="#quick-start">Quick start</a> · <a href="SETUP.md">Setup guide</a> · <a href="examples/">Example</a> · <a href="dashboard/DASHBOARD-SPEC.md">Dashboard</a> · <a href="PRIVACY.md">Privacy</a> · <a href="#support">Support</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/issues">Issues</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/pulls">Pull requests</a>
@@ -37,7 +40,6 @@ Heavy batches included. This system ran daily dispatch batches in its author's o
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support-yellow?logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/nils_effmert)
 
-⭐ No money? [Star this repo](https://github.com/splashdeluxe/ai-job-search-template) instead. Click **Star** at the top right of this page. Two seconds, and it helps the next job seeker find it.
 
 ## What this is
 
