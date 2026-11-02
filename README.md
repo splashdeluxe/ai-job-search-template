@@ -211,7 +211,13 @@ A star, the coffee link and GitHub contributions are the only ways to support th
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=splashdeluxe/ai-job-search-template&type=Date)](https://www.star-history.com/#splashdeluxe/ai-job-search-template&Date)
+<a href="https://www.star-history.com/?type=date&repos=splashdeluxe%2Fai-job-search-template">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=splashdeluxe/ai-job-search-template&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=splashdeluxe/ai-job-search-template&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=splashdeluxe/ai-job-search-template&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ## License
 
