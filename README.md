@@ -28,6 +28,12 @@ A job search system for your Muse agent. It sources roles from official careers 
 
 ---
 
+<p align="center">
+  <img src="assets/demo.gif" alt="Demo: one full run of the template with the fictional example candidate, from setup and sourcing to the gap brief, one tailored application and the morning briefing" width="900">
+</p>
+
+<p align="center"><em>One full run, with Alex Rivera, the fictional example candidate from <a href="examples/">examples/</a>.</em></p>
+
 ## Run this free with Muse
 
 1. Join Muse at [muse.ai/join](https://muse.ai/join).
