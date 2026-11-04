@@ -8,7 +8,9 @@
 ## Portals (starter set, adapted in /setup)
 
 Remote boards: Himalayas, Remotive, Remote OK, We Work Remotely, Arbeitnow, Jobicy, Working Nomads.
+Regional boards: Arbeitsagentur (Germany, public API), MyCareersFuture (Singapore), Jobstreet / SEEK (Singapore, Malaysia, Philippines, Indonesia — use the bare sg. / my. / ph. / id. hosts, the www. hosts serve the wrong market), Welcome to the Jungle, JustJoin.it, Landing.jobs (EU).
 General boards: LinkedIn Jobs, Indeed, Glassdoor, StepStone.
+Not usable as a feed: Glints — its search API ignores the search term outside a browser session, so it stays a manual look only.
 Startup boards: Wellfound, Work at a Startup (YC).
 ATS platforms (the company's own application pages): Greenhouse, Ashby, Lever, Workable, SmartRecruiters, Recruitee, Teamtailor, Personio, Breezy, Workday, SAP SuccessFactors.
 Plus: the employer's own careers page, which is the source of truth for every role.
