@@ -23,7 +23,7 @@ A job search system for your Muse agent. It sources roles from official careers 
 <p align="center">⭐ <strong>If this template helped you, a star helps the next person find it.</strong></p>
 
 <p align="center">
-<a href="https://splashdeluxe.github.io/ai-job-search-template/">One-pager</a> · <a href="#quick-start">Quick start</a> · <a href="SETUP.md">Setup guide</a> · <a href="examples/">Example</a> · <a href="dashboard/DASHBOARD-SPEC.md">Dashboard</a> · <a href="PRIVACY.md">Privacy</a> · <a href="#support">Support</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/issues">Issues</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/pulls">Pull requests</a>
+<a href="https://splashdeluxe.github.io/ai-job-search-template/">One-pager</a> · <a href="#quick-start">Quick start</a> · <a href="SETUP.md">Setup guide</a> · <a href="examples/">Example</a> · <a href="dashboard/DASHBOARD-SPEC.md">Dashboard</a> · <a href="PRIVACY.md">Privacy</a> · <a href="#faq">FAQ</a> · <a href="#support">Support</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/issues">Issues</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/pulls">Pull requests</a>
 </p>
 
 ---
@@ -158,6 +158,29 @@ Your own market missing? Setup asks for your local boards, your public job servi
 | Scheduled runs | The dispatcher, the morning shortlist and the daily briefing run without you asking |
 | One chat per application | Side chats keep 40 applications from tangling, and archive when a submit is confirmed |
 | Dashboard artifact | Your pipeline, funnel and world map, refreshed after every briefing run |
+
+## FAQ
+
+**How can I use Muse when I don't live in a country where Muse is available right now?**
+
+**Over VPN**
+
+1. Install the Green VPN browser extension.
+2. Pick a free United States server and connect.
+3. With the VPN on, open muse.ai.
+4. On "Log in or create your account", enter your mobile number or email address and press Continue.
+5. Work through the account details and the next pages. This is the step where the waitlist and the age check normally stop the sign-up; in the video, the US connection carries it through.
+6. Leave the VPN on for the whole sign-up. If a page stalls, turn the VPN back on and refresh.
+7. Once the account exists, you log in normally afterwards. The VPN is for the sign-up.
+
+### Age check over the phone number
+
+1. Open Meta Accounts Center.
+2. Go to Login and security.
+3. Choose Add phone number, pick your country code, and enter your mobile number.
+4. Verify the number with the SMS code Meta sends you. The video shows the two-factor settings in the same Login and security area.
+5. Keep pressing Next through the verification pages that follow.
+6. Go back to Muse and refresh. The account is set up and the age check is done.
 
 ## Repository structure
 
