@@ -11,6 +11,6 @@ Goal: one role, one tailored application, one verified submit. All standing rule
 6. Reviewer pass: a reviewer who did not draft the text repeats the writing check scan and reads the CV against the evidence table. Anything it cannot trace to the record is cut or fixed before the owner sees the draft.
 7. Save the CV in `cv/<Company>/` with the owner's name as the file name, and to Drive `CVs/<Company>/` if they use Drive.
 8. Fill the form from the facts sheet block for that geography. Optional text fields get 75 to 120 role specific words, and they pass the writing check too. Verify the CV shows as attached.
-9. Submit once. Lever is the exception: the owner submits themself on their own machine.
+9. Submit once. Lever included: the agent attempts the submit itself; if a human-verification check genuinely cannot be passed, leave the filled form intact, treat the application as not submitted, and report it.
 10. Record the confirmation page wording and, when it lands, the confirmation mail. Update the tracker in the same run.
 11. If the submit is unconfirmed, stop. Label it unconfirmed everywhere, check mail and the platform later, never resubmit on a guess.

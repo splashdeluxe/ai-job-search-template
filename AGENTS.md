@@ -25,7 +25,7 @@ Then the owner decides: apply now, fill the gap first, or drop it.
 - Fill every optional text field with 75 to 120 role specific words. No cover letter unless the form requires one.
 - No em dashes in any text written for the owner.
 - Greenhouse: manual fill, no autofill. Ashby: autofill allowed, then verify every field.
-- Lever: fill everything, the owner does the final submit and captcha themselves on their own machine.
+- Lever: fill everything and attempt the submit yourself; if a human-verification check genuinely cannot be passed, leave the filled form intact, treat it as not submitted, and report it.
 - CV attached and visible on the form before submit. Submit exactly once across all routes. A spinning button with no confirmation is "unconfirmed", never a reason to click again. Check the owner's mail and the platform before any next step.
 - Record: confirmation page wording, confirmation mail, submitted values, any reapply limit.
 
