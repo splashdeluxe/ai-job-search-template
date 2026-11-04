@@ -2,3 +2,10 @@ seen_jobs.json
 tracker/job_search_tracker.csv
 .DS_Store
 *.tmp
+
+# Application packs, built CVs and report snapshots hold personal data - keep them local
+applications/*
+!applications/.gitkeep
+cv/**/*.pdf
+dashboard/report-*.html
+tracker/last-mail-sync.txt
