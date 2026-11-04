@@ -15,7 +15,7 @@ Status: TEMPLATE. /setup fills this file with the owner's choices and then creat
 
 1. **Dispatcher.** On the interval above: run /scrape, then /rank, then /apply for the roles the approval mode covers. Each application runs in its own chat. Submit exactly once per role. A run that finds nothing worth applying to ends quietly.
 2. **Morning shortlist.** Daily at the shortlist time: the top ranked roles from the latest /rank, with fit, track, gap in one line, and a keep or drop call per role.
-3. **Daily briefing.** Daily at the briefing time, covering yesterday in the owner's timezone: jobs found (verified on official boards, with form check drops counted), applied (confirmed submissions only, company and role; unconfirmed submits reported separately, never counted), rejections received, open applications with no reply from yesterday's cohort, and every rejection's stated reason grouped: location and rights, stated fit, stronger field, no reason given. One closing line: the pattern, if one is forming.
+3. **Daily briefing.** Daily at the briefing time. It starts with a mail sync (`/gmail-sync`, owner-approved changes only), so yesterday's confirmations and rejections are already in the tracker. Then it covers yesterday in the owner's timezone: jobs found (verified on official boards, with form check drops counted), applied (confirmed submissions only, company and role; unconfirmed submits reported separately, never counted), rejections received, open applications with no reply from yesterday's cohort, and every rejection's stated reason grouped: location and rights, stated fit, stronger field, no reason given. One closing line: the pattern, if one is forming.
 
 ## Rules for every scheduled run
 
