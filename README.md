@@ -195,7 +195,13 @@ Good places to start:
 - **[GitHub Issues](https://github.com/splashdeluxe/ai-job-search-template/issues)** - Report a broken command, a gate that let a bad role through, or a form pattern the system should know about.
 - **[Pull requests](https://github.com/splashdeluxe/ai-job-search-template/pulls)** - Welcome for stricter gates, clearer rules and better checks. Changes that loosen an integrity rule need a strong reason in the request.
 
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for what changed in each version.
+
 ## Contributing
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. It covers what a good change looks like here, and what gets declined.
 
 Read the standing rules in `AGENTS.md` first. They are the product. A contribution that keeps them intact and makes one workflow clearer beats a large rewrite. Open a [pull request](https://github.com/splashdeluxe/ai-job-search-template/pulls) against `main`, or start with an [issue](https://github.com/splashdeluxe/ai-job-search-template/issues) if the change is big.
 
