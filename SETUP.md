@@ -28,3 +28,14 @@
 
 ## Staying safe
 Your copy holds sensitive facts. Keep the GitHub repo private, keep the live tracker local (it is gitignored), and read `PRIVACY.md` and `SECURITY.md`.
+
+## Updating your copy
+
+A copy made with **Use this template** does not update itself when the template improves. Nothing pulls changes in automatically, and that is deliberate: your copy holds your filled profile, facts and dispatcher settings.
+
+To take an upstream improvement:
+
+1. Read `CHANGELOG.md` in the template repo and pick the changes you want.
+2. Copy the changed files into your copy one by one. The commands (`commands/`), the standards (`03-cv-standard.md`, `05-writing-check.md`) and the community files are safe to replace.
+3. Never overwrite your filled files: `01-candidate-profile.md`, `02-master-facts-sheet.md`, `06-dispatcher.md`, your tracker and your exclusions. If an upstream change touches their template shape, merge it by hand.
+4. Run one pilot application after updating, before the dispatcher resumes.
