@@ -7,4 +7,5 @@ Goal: turn mail signals into tracker truth, with the owner's approval on every c
 3. Propose updates, one per application: current status, what the mail says (quote the key line), proposed new status.
 4. The owner approves or corrects each proposal. Nothing changes on a guess, and a mail about a different role at the same company is never merged in.
 5. Apply approved updates through /outcome, including feedback asks for new rejections.
-6. Report: matched, updated, unmatched mail that looked relevant but fit no tracker row.
+6. Record the sync point: write the date and time of this run to `tracker/last-mail-sync.txt` (a local file, gitignored). The next run's search window starts there, not at a guess.
+7. Report: matched, updated, unmatched mail that looked relevant but fit no tracker row.
