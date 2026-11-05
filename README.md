@@ -132,7 +132,7 @@ The system searches these portals out of the box. Boards are leads: every lead i
 | Work at a Startup (YC) | Startup board | Y Combinator company roles |
 | Greenhouse | ATS | Company application pages, the system fills these by hand |
 | Ashby | ATS | Company application pages, autofill checked field by field |
-| Lever | ATS | Company application pages, you do the final submit yourself |
+| Lever | ATS | Company application pages, the agent attempts the submit itself; the owner steps in only if a human-verification check genuinely blocks it |
 | Workable | ATS | Company application pages |
 | SmartRecruiters | ATS | Company application pages |
 | Recruitee | ATS | Company application pages |
