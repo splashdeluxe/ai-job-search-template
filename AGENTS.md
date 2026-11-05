@@ -33,7 +33,7 @@ Then the owner decides: apply now, fill the gap first, or drop it.
 Follow `03-cv-standard.md`. File name is the owner's name as `Firstname_Lastname.pdf`, in `cv/<Company>/` and, if the owner uses Drive, in Drive under `CVs/<Company>/`.
 
 ## Mail
-- Every rejection gets a feedback ask where a replyable route exists, per `commands/outcome.md` step 3 and the owner's setup choices. Sends, skips and answers are logged.
+- Every rejection gets a feedback ask where a replyable route exists, per `commands/outcome.md` step 3 and the owner's setup choices, unless the rejection already states a specific reason: that reason is the feedback, record it and do not ask again. Feedback asks address the person by first name only, in the register the process already used (in German: du, never Sie). Sends, skips and answers are logged.
 - Automated ATS confirmations: file to a Job Applications folder.
 - Recruiter replies, interview invites, rejections, status updates: keep in the inbox, surface to the owner.
 - Never auto-file real person mail unseen.
