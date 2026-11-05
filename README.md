@@ -23,7 +23,7 @@ A job search system for your Muse agent. It sources roles from official careers 
 <p align="center">⭐ <strong>If this template helped you, a star helps the next person find it.</strong></p>
 
 <p align="center">
-<a href="https://splashdeluxe.github.io/ai-job-search-template/">One-pager</a> · <a href="#quick-start">Quick start</a> · <a href="SETUP.md">Setup guide</a> · <a href="examples/">Example</a> · <a href="dashboard/DASHBOARD-SPEC.md">Dashboard</a> · <a href="PRIVACY.md">Privacy</a> · <a href="#faq">FAQ</a> · <a href="#support">Support</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/issues">Issues</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/pulls">Pull requests</a>
+<a href="https://splashdeluxe.github.io/ai-job-search-template/">One-pager</a> · <a href="#quick-start">Quick start</a> · <a href="SETUP.md">Setup guide</a> · <a href="examples/">Example</a> · <a href="dashboard/DASHBOARD-SPEC.md">Dashboard</a> · <a href="PRIVACY.md">Privacy</a> · <a href="#support">Support</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/issues">Issues</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/pulls">Pull requests</a>
 </p>
 
 ---
@@ -132,7 +132,7 @@ The system searches these portals out of the box. Boards are leads: every lead i
 | Work at a Startup (YC) | Startup board | Y Combinator company roles |
 | Greenhouse | ATS | Company application pages, the system fills these by hand |
 | Ashby | ATS | Company application pages, autofill checked field by field |
-| Lever | ATS | Company application pages, the agent attempts the submit itself; the owner steps in only if a human-verification check genuinely blocks it |
+| Lever | ATS | Company application pages, you do the final submit yourself |
 | Workable | ATS | Company application pages |
 | SmartRecruiters | ATS | Company application pages |
 | Recruitee | ATS | Company application pages |
@@ -158,29 +158,6 @@ Your own market missing? Setup asks for your local boards, your public job servi
 | Scheduled runs | The dispatcher, the morning shortlist and the daily briefing run without you asking |
 | One chat per application | Side chats keep 40 applications from tangling, and archive when a submit is confirmed |
 | Dashboard artifact | Your pipeline, funnel and world map, refreshed after every briefing run |
-
-## FAQ
-
-**How can I use Muse when I don't live in a country where Muse is available right now?**
-
-**Over VPN**
-
-1. Install the Green VPN browser extension.
-2. Pick a free United States server and connect.
-3. With the VPN on, open muse.ai.
-4. On "Log in or create your account", enter your mobile number or email address and press Continue.
-5. Work through the account details and the next pages. This is the step where the waitlist and the age check normally stop the sign-up; in the video, the US connection carries it through.
-6. Leave the VPN on for the whole sign-up. If a page stalls, turn the VPN back on and refresh.
-7. Once the account exists, you log in normally afterwards. The VPN is for the sign-up.
-
-### Age check over the phone number
-
-1. Open Meta Accounts Center.
-2. Go to Login and security.
-3. Choose Add phone number, pick your country code, and enter your mobile number.
-4. Verify the number with the SMS code Meta sends you. The video shows the two-factor settings in the same Login and security area.
-5. Keep pressing Next through the verification pages that follow.
-6. Go back to Muse and refresh. The account is set up and the age check is done.
 
 ## Repository structure
 
@@ -213,18 +190,24 @@ Good places to start:
 - [examples/](examples/) to see a finished profile before you write yours
 - [PRIVACY.md](PRIVACY.md) before you connect any account
 
+## How it differs
+
+Two larger open projects do a similar job, and both are worth knowing: career-ops, an agent that runs locally in a coding CLI, scores roles and tailors documents, and leaves every Submit click to you; and ai-job-search, a Claude Code framework you fork and fill with your profile.
+
+This template differs in three ways:
+
+- It runs inside Muse, Meta's assistant, and works on the free plan. No local install, no coding CLI, no API key.
+- It submits for you, once per role, under written integrity rules: a gap brief before anything is written, no invented metrics, eligibility answers copied from one facts sheet.
+- It closes the loop after the answer arrives. Every rejection gets a feedback ask, and repeated reasons turn into profile changes you approve.
+
+If you want full manual control of every click, career-ops is the better fit. If you want the search to run on a schedule while you do other things, this one was built for that.
+
 ## Community
 
 - **[GitHub Issues](https://github.com/splashdeluxe/ai-job-search-template/issues)** - Report a broken command, a gate that let a bad role through, or a form pattern the system should know about.
 - **[Pull requests](https://github.com/splashdeluxe/ai-job-search-template/pulls)** - Welcome for stricter gates, clearer rules and better checks. Changes that loosen an integrity rule need a strong reason in the request.
 
-## Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) for what changed in each version.
-
 ## Contributing
-
-Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. It covers what a good change looks like here, and what gets declined.
 
 Read the standing rules in `AGENTS.md` first. They are the product. A contribution that keeps them intact and makes one workflow clearer beats a large rewrite. Open a [pull request](https://github.com/splashdeluxe/ai-job-search-template/pulls) against `main`, or start with an [issue](https://github.com/splashdeluxe/ai-job-search-template/issues) if the change is big.
 
