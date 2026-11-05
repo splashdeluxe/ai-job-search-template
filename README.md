@@ -159,6 +159,15 @@ Your own market missing? Setup asks for your local boards, your public job servi
 | One chat per application | Side chats keep 40 applications from tangling, and archive when a submit is confirmed |
 | Dashboard artifact | Your pipeline, funnel and world map, refreshed after every briefing run |
 
+## When a CAPTCHA blocks the submit
+
+Some application forms sit behind Cloudflare Turnstile or reCAPTCHA, and a normal automated browser session can get rejected even when every field is filled in correctly. The system handles it in this order:
+
+1. Solve the challenge in the same session. The submit button is clicked once, never twice.
+2. If the session itself keeps failing the check, switch to a stealth cloud browser (Browser Use), refill the form there, and submit once in that session. In a live test on 4 November 2026, Turnstile checks passed automatically in this route and a reCAPTCHA v2 challenge was solved without a paid solver service.
+3. hCaptcha image and drag challenges are not guaranteed in any route. If one stays unsolved, the form stays filled and untouched, the application is reported as blocked, and a human finishes that one check.
+4. A clicked submit with no confirmation page counts as unconfirmed, not failed. The system checks mail and the platform before anyone submits again, so an application never goes in twice by accident.
+
 ## Repository structure
 
 ```
