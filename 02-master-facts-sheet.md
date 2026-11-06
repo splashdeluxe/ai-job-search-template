@@ -16,6 +16,14 @@ Status: TEMPLATE. Fill one block for your home geography, then one per relocatio
 - Source / how did you hear: Company Website, or the official careers page. Only pick a listed option that is actually true.
 - Salary: no figure in advance. If a form requires one, research that role in that run, show the owner the figure and basis, then enter what they approve.
 
+## Talent pool answers (all geographies)
+Pools ask the same questions again and again. Answer them here once, so a pool join never stalls on a figure nobody researched.
+- Engagement types accepted: TODO (freelance / fixed term / permanent, as set in the profile)
+- Day rate band, if freelance: TODO (research your market once, write the band and the source)
+- Yearly compensation figure, if a pool form asks one: TODO (figure and basis)
+- Availability for a pool engagement: TODO
+- Full-time or part-time: TODO (note the hours the posting states; a 40 hour posting is full-time)
+
 ## Home geography (TODO: name it)
 - Base framing: TODO
 - Location to enter: TODO
