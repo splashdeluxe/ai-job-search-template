@@ -25,3 +25,10 @@ In /setup, add your local boards, your public job service and the niche boards o
 - Live list: `tracker/exclusions.txt`
 - Already applied (inside the one-per-week window), dropped by the owner, failed a hard gate, or a form with no truthful answer: all go in the exclusions with a one line reason and a date.
 - A dropped role stays dropped until the owner reopens it.
+
+## Talent pool platforms
+Some platforms host career pools for many companies at once. One account per platform covers every pool on it.
+- JOIN (join.com): company pools, form starts with a CV upload after an email sign-in.
+- TODO in /setup: the pool platforms of your field.
+
+Pools found anywhere still follow the rules above: verify on the employer's own page before joining.
