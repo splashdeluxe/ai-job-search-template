@@ -40,3 +40,9 @@ Follow `03-cv-standard.md`. File name is the owner's name as `Firstname_Lastname
 
 ## Geography and rights
 Use only the blocks in `02-master-facts-sheet.md`. When the owner's visa or residence situation changes, the sheet is updated first, then forms follow the sheet. Never copy another user's facts sheet. Work rights are personal and they expire.
+
+## Talent pools
+- A posting with no live seat (career pool, talent pool, speculative application) is a pool, not a drop and not an application. Run `commands/talent-pool.md`.
+- Pool joins never count in the application tally and never use the one-per-company-per-week slot.
+- Pool accounts are created once per platform, with the owner's approval, and reused. Logins live in the owner's password manager, never in this repo.
+- A required pool field with no truthful answer drops the pool, same as any form.
