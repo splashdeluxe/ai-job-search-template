@@ -26,6 +26,8 @@ A job search system for your Muse agent. It sources roles from official careers 
 <a href="https://splashdeluxe.github.io/ai-job-search-template/">One-pager</a> · <a href="#quick-start">Quick start</a> · <a href="SETUP.md">Setup guide</a> · <a href="examples/">Example</a> · <a href="dashboard/DASHBOARD-SPEC.md">Dashboard</a> · <a href="PRIVACY.md">Privacy</a> · <a href="#support">Support</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/issues">Issues</a> · <a href="https://github.com/splashdeluxe/ai-job-search-template/pulls">Pull requests</a>
 </p>
 
+<p align="center">The docs are also available as <a href="llms.txt">llms.txt</a> for coding agents.</p>
+
 ---
 
 <p align="center">
@@ -33,6 +35,18 @@ A job search system for your Muse agent. It sources roles from official careers 
 </p>
 
 <p align="center"><em>One full run, with Alex Rivera, the fictional example candidate from <a href="examples/">examples/</a>.</em></p>
+
+## Watch how it works
+
+One full run takes about a minute to watch. The film uses Alex Rivera, the fictional example candidate.
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://github.com/splashdeluxe/ai-job-search-template/blob/main/assets/demo.gif"><img src="assets/posters/run-setup.jpg" alt="Demo poster, setup: the candidate facts sheet"></a><br><code>setup</code>: the facts sheet</td>
+    <td align="center" width="33%"><a href="https://github.com/splashdeluxe/ai-job-search-template/blob/main/assets/demo.gif"><img src="assets/posters/run-apply.jpg" alt="Demo poster, source, score and apply"></a><br><code>source, score, apply</code>: one full run</td>
+    <td align="center" width="33%"><a href="https://github.com/splashdeluxe/ai-job-search-template/blob/main/assets/demo.gif"><img src="assets/posters/run-briefing.jpg" alt="Demo poster, the morning briefing"></a><br><code>briefing</code>: the morning report</td>
+  </tr>
+</table>
 
 ## Run this free with Muse
 
