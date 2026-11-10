@@ -179,6 +179,7 @@ ai-job-search-template/
 ├── 04-sources.md           # Boards, ATS watchlist, exclusions
 ├── 05-writing-check.md     # The AI pattern check every CV must pass
 ├── 06-dispatcher.md        # Your schedule: dispatch, shortlist, daily briefing
+├── 07-ats-profile-registry.md # Candidate profiles per ATS, standing answers, the register
 ├── AGENTS.md               # Standing rules your agent follows
 ├── SETUP.md                # Setup guide
 ├── PRIVACY.md              # Read this before your first run
