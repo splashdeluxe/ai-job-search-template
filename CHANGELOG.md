@@ -4,6 +4,8 @@ All notable changes to this template, newest first. The format follows Keep a Ch
 
 ## Unreleased
 
+- Apply: after a confirmed submit, the agent checks for a candidate profile on the system (Teamtailor Connect, JOIN, Workday and others) and completes it with a pitch written for the role: new guide `07-ats-profile-registry.md`, step 12 in `commands/apply.md`, and a profile register template under `tracker/`.
+
 - Sources: regional boards added to `04-sources.md` (Arbeitsagentur, MyCareersFuture, Jobstreet / SEEK with the bare-host note, Welcome to the Jungle, JustJoin.it, Landing.jobs), plus a note that Glints cannot be used as a feed.
 - Apply: on Lever, the agent now attempts the submit itself. The owner steps in only when a human-verification check genuinely blocks it.
 
