@@ -14,3 +14,5 @@ Goal: one role, one tailored application, one verified submit. All standing rule
 9. Submit once. Lever included: the agent attempts the submit itself; if a human-verification check genuinely cannot be passed, leave the filled form intact, treat the application as not submitted, and report it.
 10. Record the confirmation page wording and, when it lands, the confirmation mail. Update the tracker in the same run.
 11. If the submit is unconfirmed, stop. Label it unconfirmed everywhere, check mail and the platform later, never resubmit on a guess.
+
+12. Candidate profile. Check whether the system, or the company's careers page, offers a candidate profile, a Connect or talent community signup, or job alerts (`07-ats-profile-registry.md`). Where it does, create or complete the profile after the confirmed submit, with the facts sheet answers and a pitch written for this role. Record it in the profile register in the same run.
