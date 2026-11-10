@@ -46,3 +46,9 @@ Use only the blocks in `02-master-facts-sheet.md`. When the owner's visa or resi
 - Pool joins never count in the application tally and never use the one-per-company-per-week slot.
 - Pool accounts are created once per platform, with the owner's approval, and reused. Logins live in the owner's password manager, never in this repo.
 - A required pool field with no truthful answer drops the pool, same as any form.
+
+## Candidate profiles
+- After a confirmed submit, check whether the system offers a candidate profile, a Connect or talent community signup, or job alerts, and complete what is offered (`07-ats-profile-registry.md`). Apply first, profile second: a profile never blocks, replaces or duplicates the application.
+- Profiles use the facts sheet answers and a pitch written for the role. Privacy consent and future-opportunities consent: yes. Marketing by text message: no, unless the owner says otherwise.
+- Passwords are never invented and never stored in this repo. An account is created once per system or company and reused.
+- One row per profile in the profile register, updated in the same run.
