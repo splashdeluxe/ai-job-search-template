@@ -1,0 +1,30 @@
+# ai-job-search-template
+
+> A free, open-source template (MIT licence) that turns Muse into a job search system. It sources roles from official careers boards only, scores fit and shows the honest gap for each role, builds one tailored CV per role, submits each application exactly once, and asks every rejection for feedback. The owner approves; the system does the repetitive work.
+
+## What it does
+
+- Sources roles on a schedule from official careers boards and a fixed watchlist of job boards and ATS platforms (Greenhouse, Ashby, Lever, Workable, SmartRecruiters, Recruitee, Teamtailor, Personio, Breezy, Workday, SAP SuccessFactors)
+- Scores every role against the owner's facts sheet and writes a gap brief: what the role needs that the owner does not have yet, how big the gap is, and ideas to close it
+- Builds one tailored CV per role from a single facts sheet, so dates, titles and metrics never drift between versions
+- Runs a metric pass (every bullet carries a real number or stays qualitative) and a writing check based on Wikipedia's "Signs of AI writing", so text reads as written by a person
+- Submits each application exactly once and logs the confirmation
+- Asks every rejection for honest feedback, by email or LinkedIn, and turns recurring reasons into proposals the owner approves
+- Shows the pipeline in a Muse dashboard, with an optional world map of applications
+- Sends a morning briefing: what was found, applied, rejected, and what needs the owner's decision
+
+## Rules it cannot break
+
+- Apply only through the employer's official careers board
+- Eligibility answers come only from the facts sheet; if a required answer is not true, the role is dropped at sourcing
+- Submit exactly once per role; an unconfirmed submit is checked, never repeated blindly
+- One application per company per week, best fit first
+- No cover letter unless the form requires one
+
+## Links
+
+- Repository: https://github.com/splashdeluxe/ai-job-search-template
+- One-pager: https://splashdeluxe.github.io/ai-job-search-template/
+- Setup guide: https://github.com/splashdeluxe/ai-job-search-template/blob/main/SETUP.md
+- Get Muse: https://muse.ai/join (invite code PDW4CV, 1 billion Muse tokens free)
+- Author: Nils Effmert, People Operations and HR Systems lead, https://perfectlivingspot.com
